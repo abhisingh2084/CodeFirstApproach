@@ -76,7 +76,7 @@ namespace Demo.Controllers
         }
 
         /// <summary>
-        /// save employee
+        ///Delete employee
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
